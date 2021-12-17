@@ -1,0 +1,20 @@
+{
+  "name": "filesystem",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackLacost/node-playground.git"
+  },
+  "author": "Ilya Lisin <blacklacost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackLacost/node-playground/issues"
+  },
+  "homepage": "https://github.com/BlackLacost/node-playground#readme"
+}
