@@ -1,8 +1,9 @@
 {
-  "name": "node-playground",
+  "name": "packages",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +16,5 @@
   "bugs": {
     "url": "https://github.com/BlackLacost/node-playground/issues"
   },
-  "homepage": "https://github.com/BlackLacost/node-playground#readme",
-  "workspaces": [
-    "filesystem",
-    "module/modularity",
-    "module/packages"
-  ]
+  "homepage": "https://github.com/BlackLacost/node-playground#readme"
 }
