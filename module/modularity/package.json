@@ -1,5 +1,5 @@
 {
-  "name": "node-playground",
+  "name": "modularity",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -16,8 +16,7 @@
     "url": "https://github.com/BlackLacost/node-playground/issues"
   },
   "homepage": "https://github.com/BlackLacost/node-playground#readme",
-  "workspaces": [
-    "filesystem",
-    "module/modularity"
-  ]
+  "dependencies": {
+    "ws": "^8.3.0"
+  }
 }
